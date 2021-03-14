@@ -12,3 +12,6 @@ class Solution:
                 res[nums[i]]=i
                 i+=1
         return ind
+        
+#Udemy Course Lesson 1-9
+# LeetCode Link: https://leetcode.com/problems/two-sum/
